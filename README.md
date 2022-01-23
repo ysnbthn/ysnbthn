@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ysnbthn
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning .Net Core
 - 📫 How to reach me yasinbatuhanozyurek@gmail.com
 
 <!---
